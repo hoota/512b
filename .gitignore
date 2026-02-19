@@ -1,0 +1,22 @@
+# Ignore object files
+*.o
+
+# Ignore build artifacts
+window
+
+# Ignore fonts directory
+fonts/
+
+# Ignore other common binary files
+*.exe
+*.out
+*.bin
+*.a
+*.so
+*.dylib
+*.dll
+*.log
+*.png
+*.jpg
+*.bmp
+*.pdf
